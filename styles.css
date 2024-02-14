@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('back3.jpg');
+    background-size: auto;
+    background-position: center;
+    background-repeat: repeat;
+    height: 100vh;
+}
+.content {
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
